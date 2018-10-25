@@ -5,6 +5,3 @@
 hosted by Perl, which is the only language with enough linguistic flexibility
 to provide mixed `quote` functionality (though it would be trivial to write a
 custom parser/grammar for it to break that dependency).
-
-If you want to write code that compiles to anything and runs everywhere, this
-is your language.
